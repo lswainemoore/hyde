@@ -26,7 +26,41 @@
         {% endif %}
       {% endfor %}
 
-      <span class="sidebar-nav-item">Currently v {{ site.version }}</span>
+      {% comment  %}
+        The code below is adapted from https://blog.r3bl.me/en/simple-social-media-links-jekyll/
+        and helps set up social media profile links.
+      {% endcomment %}
+      
+
+      <p></p>
+      {% if site.email_address %}
+        <a href="mailto:{{ site.email_address }}">
+          <i class="fa fa-envelope" style="font-size: 1.5em;"></i>
+        </a>
+        &nbsp
+      {% endif %}
+      
+      {% if site.twitter_username %}
+        <a href="https://twitter.com/{{ site.twitter_username }}">
+          <i class="fa fa-twitter" style="font-size: 1.5em;"></i>
+        </a>
+        &nbsp
+      {% endif %}
+
+      {% if site.github_username %}
+        <a href=https://github.com/{{ site.github_username }}">
+          <i class="fa fa-github" style="font-size: 1.5em;"></i>
+        </a>
+        &nbsp
+      {% endif %}
+
+      {% if site.linkedin_username %}
+        <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+          <i class="fa fa-linkedin" style="font-size: 1.5em;"></i>
+        </a>
+        &nbsp
+      {% endif %}
+
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
