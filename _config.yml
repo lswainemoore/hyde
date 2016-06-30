@@ -10,20 +10,24 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Lincoln
-tagline:          'A Jekyll theme'
+title:            Lincoln Swaine-Moore
+tagline:          'Personal Website'
 description:      "Yale Computer Science Class of 2017"
 url:              http://lswainemoore.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Lincoln Swaine-Moore'
+  url:            http://lswainemoore.com
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          -0.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/lswainemoore
+
+twitter_username: lswainemoore
+github_username:  lswainemoore
+linkedin_username: lincoln-swaine-moore-0463a474
