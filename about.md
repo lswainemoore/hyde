@@ -3,28 +3,19 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Welcome! This page is under development. I'll have more about myself on here soon.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+My name is Lincoln Swaine-Moore, and I'm an undergraduate at Yale University studying Computer Science. I'll be graduating in 2017.
 
-There are currently two themes built on Poole:
+I'm interested in:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* Machine learning
+* Data science
+* Cryptography
+* Blockchain technology
+* And how all of the above fits into government and politics!
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+Feel free to reach out to me at [lswainemoore@gmail.com](mailto:lswainemoore@gmail.com), or (until 2017!) at [lincoln.swaine-moore@yale.edu](mailto:lincoln.swaine-moore@yale.edu).
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+If you're of such a mind, feel free to encrypt with my PGP key, available [here](https://pgp.mit.edu/pks/lookup?op=get&search=0x95A172636BB04769).
