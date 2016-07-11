@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Getting the ball rolling
+comments: true
 ---
 
 It's time for The World to hear my thoughts (sorry, The World).
