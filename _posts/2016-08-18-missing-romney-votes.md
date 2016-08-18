@@ -39,7 +39,7 @@ The 59 divisions figure shows up when counting machine votes alone, which is wha
 #### B
 Godfrey's claim doesn't literally hold up across all 59 divisions. But I can see why it might be true in the first 5 divisions he tried, depending on how he accessed the results. Here's what I found when I matched up those 59 divisions to the machine-counted votes in the 2012 republican primary: 
 
-1.  In 30 of the 59 divisions, nobody voted in *any* Republican primary contest. It's a little hard to say how many unique voters voted in the other 31 divisions because votes are aggregated at the candidate level, but a given voter could vote in multiple contests.
+1.  In 30 of the 59 divisions, nobody voted in *any* Republican primary contest. It's a little hard to say how many unique voters voted in the other 29 divisions because votes are aggregated at the candidate level, but a given voter could vote in multiple contests.
 2.  In 32 of the 59 divisions, nobody voted in the Republican *presidential* primary. The greatest number of voters in any particular division's Republican presidential primary was 4. 
 3.  In 52 of the 59 divisions, nobody voted for *Romney* in the Republican presidential primary. The greatest number of voters in any particular division's Republican presidential primary was 2. 
 
