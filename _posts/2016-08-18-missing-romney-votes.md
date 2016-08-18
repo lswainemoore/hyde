@@ -62,7 +62,7 @@ But more importantly, there are plenty of other good reasons  not to suspect rig
 Anyway, my objective here was not to convince. I was mainly interested in:
 
 1. Verifying (out of my own personal curiosity more than anything else) Godfrey's claim about the 2012 primaries, which I found to be partially true though probably overstated, and
-2. Brushing up on my Pandas skills, which I at least partially accomplished.
+2. Brushing up on my Pandas skills, which I at least partially accomplished, with much help from Stack Overflow...
 
 Please let me know if my results or analysis seem off, or if you find a mistake in my code!
 
