@@ -1,0 +1,53 @@
+I hereby claim:
+
+  * I am an admin of http://lswainemoore.com
+  * I am lswainemoore (https://keybase.io/lswainemoore) on keybase.
+  * I have a public key ASBC5cX5blHnLNcpEckLAqoQ7y88KvCjeMzwwcQIL9HGMQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid":
+"012042e5c5f96e51e72cd72911c90b02aa10ef2f3c2af0a378ccf0c1c4082fd1c6310a",
+            "host": "keybase.io",
+            "kid":
+"012042e5c5f96e51e72cd72911c90b02aa10ef2f3c2af0a378ccf0c1c4082fd1c6310a",
+            "uid": "1c05096bd5d7f7cf1b01fad865d66f19",
+            "username": "lswainemoore"
+        },
+        "service": {
+            "hostname": "lswainemoore.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1472697305,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1472697254,
+        "hash":
+"417f5f2a110e226690ed76a167f73cd5efd43d3bc290fc9268593fa783879019cf256284d97e1bab81535814568d8e5ffecbd035ae878c0182558e7db2ca521d",
+        "seqno": 613163
+    },
+    "prev":
+"479a4fe01ca3556600a4728a93f1efbbe13c4ea615cc43a7ee1518d20c53a256",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQuXF+W5R5yzXKRHJCwKqEO8vPCrwo3jM8MHECC/RxjEKp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDJlNWM1Zjk2ZTUxZTcyY2Q3MjkxMWM5MGIwMmFhMTBlZjJmM2MyYWYwYTM3OGNjZjBjMWM0MDgyZmQxYzYzMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDJlNWM1Zjk2ZTUxZTcyY2Q3MjkxMWM5MGIwMmFhMTBlZjJmM2MyYWYwYTM3OGNjZjBjMWM0MDgyZmQxYzYzMTBhIiwidWlkIjoiMWMwNTA5NmJkNWQ3ZjdjZjFiMDFmYWQ4NjVkNjZmMTkiLCJ1c2VybmFtZSI6Imxzd2FpbmVtb29yZSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibHN3YWluZW1vb3JlLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTcifSwiY3RpbWUiOjE0NzI2OTczMDUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MjY5NzI1NCwiaGFzaCI6IjQxN2Y1ZjJhMTEwZTIyNjY5MGVkNzZhMTY3ZjczY2Q1ZWZkNDNkM2JjMjkwZmM5MjY4NTkzZmE3ODM4NzkwMTljZjI1NjI4NGQ5N2UxYmFiODE1MzU4MTQ1NjhkOGU1ZmZlY2JkMDM1YWU4NzhjMDE4MjU1OGU3ZGIyY2E1MjFkIiwic2Vxbm8iOjYxMzE2M30sInByZXYiOiI0NzlhNGZlMDFjYTM1NTY2MDBhNDcyOGE5M2YxZWZiYmUxM2M0ZWE2MTVjYzQzYTdlZTE1MThkMjBjNTNhMjU2Iiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA7S51UTwl+j+JentMshpP5FheKgM4MDdJ9RUmHzC8mkhxDp/KGFYnH+/Oi4CKxij9YSidGKgNfe5GFZ0kq/MhB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJjeRVH4DrGgT24EvaQ9MUsL18YOimS77hViZjAlh5WOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here:
+https://keybase.io/lswainemoore
